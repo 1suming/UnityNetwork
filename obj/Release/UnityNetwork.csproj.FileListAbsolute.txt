@@ -1,0 +1,5 @@
+E:\customCode\visual studio 2013\Projects\UnityNetwork\UnityNetwork\bin\Release\UnityNetwork.dll
+E:\customCode\visual studio 2013\Projects\UnityNetwork\UnityNetwork\bin\Release\UnityNetwork.pdb
+E:\customCode\visual studio 2013\Projects\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.csprojResolveAssemblyReference.cache
+E:\customCode\visual studio 2013\Projects\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.dll
+E:\customCode\visual studio 2013\Projects\UnityNetwork\UnityNetwork\obj\Release\UnityNetwork.pdb
